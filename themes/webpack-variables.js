@@ -1,1 +1,1 @@
-module.exports = {"themeName":"base","devWebAddress":"http:\/\/ssu.ss4","distributionFolder":"base_dist"}
+module.exports = {"themeName":"base","devWebAddress":"http:\/\/PC-PC","distributionFolder":"base_dist"}
