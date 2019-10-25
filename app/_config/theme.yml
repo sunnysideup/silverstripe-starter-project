@@ -1,0 +1,9 @@
+---
+Name: icmtheme
+---
+SilverStripe\View\SSViewer:
+  themes:
+    - '$public'
+    - 'base'
+    - '$default'
+  theme: 'base'

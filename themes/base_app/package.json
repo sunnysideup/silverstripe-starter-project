@@ -1,0 +1,11 @@
+{
+  "name": "bsa.govt.nz-theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "popper.js": "^1.14.6",
+    "svg4everybody": "^2.1.9"
+  }
+}

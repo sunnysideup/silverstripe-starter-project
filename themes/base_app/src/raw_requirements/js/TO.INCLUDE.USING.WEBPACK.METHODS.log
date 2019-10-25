@@ -1,0 +1,4 @@
+@import 'site/resources/vendor/silverstripe/comments/thirdparty/jquery-validate/jquery.validate.min.js'
+@import 'site/resources/vendor/silverstripe/admin/client/dist/js/i18n.js'
+@import 'site/resources/vendor/silverstripe/comments/javascript/lang/en.js'
+@import 'site/resources/vendor/silverstripe/comments/javascript/CommentsInterface.js'

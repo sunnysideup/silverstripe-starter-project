@@ -1,0 +1,9 @@
+@media print {
+    .collapse {
+        display: block!important;
+    }
+
+    .accordion svg {
+        display: none;
+    }
+}
